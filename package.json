@@ -9,10 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PranavSinha25/Wanderlust-Airbnb
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
