@@ -9,13 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PranavSinha25/Wanderlust-Airbnb.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url":"https://github.com/PranavSinha25/Wanderlust-Airbnb.git"
+    "url": "https://github.com/PranavSinha25/Wanderlust-Airbnb.git"
   },
-  "homepage": "https://github.com/PranavSinha25/Wanderlust-Airbnb.git"
+  "homepage": "https://github.com/PranavSinha25/Wanderlust-Airbnb.git",
   "dependencies": {
     "cloudinary": "^1.41.0",
     "connect-flash": "^0.1.1",
@@ -38,3 +42,4 @@
     "passport-local-mongoose": "^9.0.1"
   }
 }
+
