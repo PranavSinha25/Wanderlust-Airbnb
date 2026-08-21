@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Amit-1424/Wanderlust-airbnb-clone.git"
+    "url": "git+https://github.com/PranavSinha25/Wanderlust-Airbnb
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Amit-1424/Wanderlust-airbnb-clone/issues"
+    "url": https://github.com/PranavSinha25/Wanderlust-Airbnb
   },
-  "homepage": "https://github.com/Amit-1424/Wanderlust-airbnb-clone#readme",
+  "homepage": https://github.com/PranavSinha25/Wanderlust-Airbnb,
   "dependencies": {
     "cloudinary": "^1.41.0",
     "connect-flash": "^0.1.1",
