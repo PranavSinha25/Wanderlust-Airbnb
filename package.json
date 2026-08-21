@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": https://github.com/PranavSinha25/Wanderlust-Airbnb.git.
+    "url":"https://github.com/PranavSinha25/Wanderlust-Airbnb.git"
   },
-  "homepage": https://github.com/PranavSinha25/Wanderlust-Airbnb.git,
+  "homepage": "https://github.com/PranavSinha25/Wanderlust-Airbnb.git"
   "dependencies": {
     "cloudinary": "^1.41.0",
     "connect-flash": "^0.1.1",
